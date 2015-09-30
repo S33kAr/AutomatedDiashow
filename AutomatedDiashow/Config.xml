@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <ImagesFolder>/Users/tobiasschulte/diashow/diashow/fotos</ImagesFolder>
+  <ImageDuration>8000</ImageDuration>
+  <ImagesCount>6</ImagesCount>
+  <MinimumImageCycle>10</MinimumImageCycle>
+  <CommercialsFolder>/Users/tobiasschulte/diashow/diashow/werbung</CommercialsFolder>
+  <CommercialsDuration>8000</CommercialsDuration>
+  <CommercialsCount>1</CommercialsCount>
+  <FileExtension>*.JPG</FileExtension>
+</Config>
